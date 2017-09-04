@@ -1,0 +1,4 @@
+c:\users\tecssil.lopez\documents\visual studio 2010\Projects\RestExercise\RestExercise\bin\RestExercise.dll
+c:\users\tecssil.lopez\documents\visual studio 2010\Projects\RestExercise\RestExercise\bin\RestExercise.pdb
+c:\users\tecssil.lopez\documents\visual studio 2010\Projects\RestExercise\RestExercise\obj\Debug\RestExercise.dll
+c:\users\tecssil.lopez\documents\visual studio 2010\Projects\RestExercise\RestExercise\obj\Debug\RestExercise.pdb
